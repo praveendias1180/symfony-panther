@@ -1,0 +1,64 @@
+Category: Picked for you
+Name: Chicken Momos(8 pcs) | Price: LKR 11.99
+Name: Spring Rolls | Price: LKR 5.99
+Name: Veggie Momos (8 pcs) | Price: LKR 10.99
+Name: Paneer Momos (8 pcs) | Price: LKR 11.99
+Name: Mozzarella Sticks | Price: LKR 8.99
+
+
+Category: Momos
+Name: Chicken Momos(8 pcs) | Price: LKR 11.99
+Name: Paneer Momos (8 pcs) | Price: LKR 11.99
+Name: Veggie Momos (8 pcs) | Price: LKR 10.99
+
+
+Category: Shareables
+Name: Fries | Price: LKR 4.49
+Name: Caesar Salad | Price: LKR 10.99
+Name: Mozzarella Sticks | Price: LKR 8.99
+Name: Mac N Cheese Fites (5 pcs) | Price: LKR 7.49
+Name: Poutine | Price: LKR 6.49
+Name: Cheese Fries | Price: LKR 6.99
+Name: Bacon Cheese Fries | Price: LKR 6.99
+Name: Spring Rolls | Price: LKR 5.99
+Name: Jalapeño Cheese Fries | Price: LKR 6.99
+Name: Cream Cheese Jalapeños | Price: LKR 9.99
+Name: Peri-Peri Fries | Price: LKR 4.49
+Name: Bacon Poutine (Regular) | Price: Crinkle cut fries topped with fresh cheese curds smothered in rich brown vegetarian gravy and chopped bacon.
+Name: Cajun Fries | Price: LKR 4.49
+
+
+Category: Drinks
+Name: Coke | Price: LKR 2.49
+Name: Diet Coke | Price: LKR 2.49
+Name: Ice Tea | Price: LKR 2.49
+Name: Sprite | Price: LKR 2.49
+Name: Ginger Ale | Price: LKR 2.49
+Name: Root Beer | Price: LKR 2.49
+
+
+Category: Tips to the kitchen
+Name: $3 | Price: LKR 3.00
+Name: $10 | Price: LKR 10.00
+Name: $15 | Price: LKR 15.00
+Name: $5 | Price: LKR 5.00
+
+
+Category: DIPPING SAUCE
+Name: Delhi Style Mayo | Price: LKR 0.99
+Name: Red Chilli Sauce | Price: LKR 0.99
+Name: Tomato Garlic Sauce | Price: LKR 0.99
+
+
+Category: Desserts
+Name: Chocolate Brownie Sundae | Price: LKR 8.49
+Name: Cookies & Cream | Price: LKR 8.99
+Name: Carrot Cake (Vegan) | Price: LKR 8.99
+Name: Red Velvet | Price: LKR 8.99
+Name: Chocolate Extravaganza | Price: LKR 8.99
+Name: NY Cheesecake | Price: LKR 11.99
+Name: Gooey Caramel | Price: LKR 8.99
+Name: Chocolate Eclair | Price: LKR 9.99
+Name: REESE'S Chocolate Peanut Butter Pie | Price: LKR 9.99
+
+

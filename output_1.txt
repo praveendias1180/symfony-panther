@@ -1,0 +1,203 @@
+Category: Picked for you
+Name: Buffalo Popcorn Chicken Poutine | Price: LKR 10.99
+Name: Small | Price: LKR 11.49
+Name: 20 Wings | Price: LKR 32.59
+Name: 10 Wings | Price: LKR 16.25
+Name: X-Large Ultimate Pepperoni | Price: LKR 20.74
+
+
+Category: Popular Pairings
+Name: Single Pizza (Medium) + Dipping Sauce | Price: LKR 15.09
+Name: Single Pizza (Large) + Dipping Sauce | Price: LKR 17.19
+Name: Chicken Wings (10 Wings) + Dipping Sauce | Price: LKR 16.25
+Name: Single Pizza (Small) + Bottle Pop | Price: LKR 14.28
+Name: Small Pepperoni + Chicken Wings (10 Wings) | Price: LKR 29.59
+Name: Single Pizza (Large) + 3 Bottle Pop | Price: LKR 24.16
+Name: Single Pizza (Medium) + 2 Bottle Pop | Price: LKR 19.27
+Name: Small Meat Supreme + Chicken Wings (10 Wings) | Price: LKR 35.14
+Name: Small Sausage Mushroom Melt + Chicken Wings (10 Wings) | Price: LKR 32.54
+Name: Small Tropical Hawaiian + Chicken Wings (10 Wings) | Price: LKR 31.44
+Name: Small Canadian + Chicken Wings (10 Wings) | Price: LKR 33.29
+Name: Small Classic Super + Chicken Wings (10 Wings) | Price: LKR 33.29
+Name: Small Garden Veggie + Chicken Wings (10 Wings) | Price: LKR 33.29
+
+
+Category: Create Your Own
+Name: Medium | Price: LKR 13.69
+Name: X-Large | Price: LKR 17.99
+Name: Large | Price: LKR 15.79
+Name: Small | Price: LKR 11.49
+
+
+Category: Meat Favourites
+Name: Large Ultimate Pepperoni | Price: LKR 18.24
+Name: Large Meat Supreme | Price: LKR 25.59
+Name: Large Hawaiian | Price: LKR 20.69
+Name: Medium Butter Chicken | Price: LKR 22.09
+Name: Medium Pepperoni | Price: LKR 15.79
+Name: Medium Classic Super | Price: LKR 19.99
+Name: Large Butter Chicken | Price: LKR 25.24
+Name: Medium Chicken Bruschetta | Price: LKR 23.09
+Name: X-Large Canadian | Price: LKR 26.24
+Name: Medium Hawaiian | Price: LKR 17.89
+Name: Medium Meat Supreme | Price: LKR 22.09
+Name: Small Pepperoni | Price: LKR 13.34
+Name: Small Butter Chicken | Price: LKR 19.14
+Name: X-Large Meat Supreme | Price: LKR 28.99
+Name: Small Sausage Mushroom Melt | Price: LKR 16.29
+Name: X-Large Spicy BBQ Chicken | Price: LKR 28.34
+Name: X-Large Bacon Double Cheeseburger | Price: LKR 24.64
+Name: X-Large Ultimate Pepperoni | Price: LKR 20.74
+Name: Small Hawaiian | Price: LKR 15.19
+Name: Medium Ultimate Pepperoni | Price: LKR 15.79
+Name: X-Large Hawaiian | Price: LKR 23.49
+Name: Small Bacon Double Cheeseburger | Price: LKR 16.34
+Name: Medium Spicy BBQ Chicken | Price: LKR 22.09
+Name: Small Spicy BBQ Chicken | Price: LKR 19.14
+Name: Small Chicken Bruschetta | Price: LKR 19.89
+Name: Small Meat Supreme | Price: LKR 18.89
+Name: Large Sausage Mushroom Melt | Price: LKR 21.79
+Name: Large Classic Super | Price: LKR 23.14
+Name: Small Classic Super | Price: LKR 17.04
+Name: X-Large Butter Chicken | Price: LKR 28.34
+Name: Medium Canadian | Price: LKR 19.99
+Name: Large Spicy BBQ Chicken | Price: LKR 25.24
+Name: X-Large Chicken Bruschetta | Price: LKR 29.99
+Name: Large Pepperoni | Price: LKR 18.24
+Name: Small Canadian | Price: LKR 17.04
+Name: X-Large Classic Super | Price: LKR 26.24
+Name: Large Bacon Double Cheeseburger | Price: LKR 21.84
+Name: Large Canadian | Price: LKR 23.14
+Name: X-Large Sausage Mushroom Melt | Price: LKR 24.59
+Name: Small Ultimate Pepperoni | Price: LKR 13.34
+Name: Large Chicken Bruschetta | Price: LKR 26.59
+Name: Medium Sausage Mushroom Melt | Price: LKR 18.99
+Name: Medium Bacon Double Cheeseburger | Price: LKR 19.04
+Name: X-Large Pepperoni | Price: LKR 20.74
+
+
+Category: Veggie Favourites
+Name: Medium Garden Veggie | Price: LKR 19.99
+Name: Large Garden Veggie | Price: LKR 23.14
+Name: Medium Creamy Garlic | Price: LKR 20.14
+Name: Medium Mediterranean Vegetarian | Price: LKR 24.19
+Name: Small Garden Veggie | Price: LKR 17.04
+Name: X-Large Garden Veggie | Price: LKR 26.24
+Name: Large Plant-Based Pepperoni | Price: LKR 18.24
+Name: Small Creamy Garlic | Price: LKR 17.44
+Name: X-Large Plant-Based Pepperoni | Price: LKR 20.74
+Name: X-Large Mediterranean Vegetarian | Price: LKR 31.74
+Name: Large Creamy Garlic | Price: LKR 22.94
+Name: Medium Plant-Based Pepperoni | Price: LKR 15.79
+Name: X-Large Pesto Amore | Price: LKR 30.09
+Name: Small Mediterranean Vegetarian | Price: LKR 20.74
+Name: X-Large Creamy Garlic | Price: LKR 25.74
+Name: Large Pesto Amore | Price: LKR 26.69
+Name: Large Mediterranean Vegetarian | Price: LKR 28.04
+Name: Small Pesto Amore | Price: LKR 19.99
+Name: Medium Pesto Amore | Price: LKR 23.19
+Name: Small Plant-Based Pepperoni | Price: LKR 13.34
+
+
+Category: Gourmet Thins
+Name: Gourmet Thin Chicken Bruschetta | Price: LKR 10.99
+Name: Gourmet Thin Pesto Amore | Price: LKR 10.99
+
+
+Category: Alternative Crusts
+Name: Keto Pepperoni | Price: LKR 19.19
+Name: Keto Crust Pizza | Price: LKR 18.59
+Name: Cauliflower Crust Pizza | Price: LKR 18.29
+Name: Gluten Free Crust Pizza | Price: LKR 14.79
+Name: Keto Pesto Margherita | Price: LKR 21.54
+Name: Keto Protein Lovers | Price: LKR 23.29
+
+
+Category: Chicken Sandwiches
+Name: Buffalo Chicken Sandwich | Price: LKR 10.04
+Name: Spicy Sriracha Mayo Chicken Sandwich | Price: LKR 9.29
+Name: Creamy Garlic Chicken Sandwich | Price: LKR 9.29
+Name: Big Buffalo Chicken Sandwich | Price: LKR 14.89
+Name: Big Spicy Sriracha Mayo Double Chicken Sandwich | Price: LKR 14.74
+Name: Classic Chicken Sandwich | Price: LKR 9.29
+Name: Big Creamy Garlic Double Chicken Sandwich | Price: LKR 14.74
+Name: Big Classic Double Chicken Sandwich | Price: LKR 14.74
+
+
+Category: Chicken
+Name: 10 Wings | Price: LKR 16.25
+Name: 20 Wings | Price: LKR 32.59
+Name: 10 Chicken Bites | Price: LKR 16.25
+Name: Popcorn Chicken | Price: LKR 9.49
+Name: 10 Gluten-Free Chicken Bites (baked) | Price: LKR 16.25
+Name: 20 Chicken Bites | Price: LKR 32.59
+Name: 20 Gluten-Free Chicken Bites (baked) | Price: LKR 32.59
+
+
+Category: Plant-Based
+Name: 10 pc. Plant-Based Chick'n Bites | Price: LKR 16.25
+Name: Spicy Plant-Based Chick'n Sandwich | Price: LKR 9.79
+Name: Plant-Based Buffalo Chick'n Sandwich | Price: LKR 10.49
+Name: Plant-Based Chick'n Sandwich | Price: LKR 9.79
+Name: 20 pc. Plant-Based Chick'n Bites | Price: LKR 32.59
+Name: Ben & Jerry's Fudge Brownie Non- Dairy 473mL | Price: LKR 9.99
+
+
+Category: Panzerottis
+Name: Cheese Panzerotti | Price: LKR 9.19
+Name: Pepperoni Panzerotti | Price: LKR 9.19
+Name: Veggie Panzerotti | Price: LKR 11.29
+Name: Super Panzerotti | Price: LKR 11.29
+Name: Hawaiian Panzerotti | Price: LKR 11.29
+Name: Bacon Double Cheeseburger Panzerotti | Price: LKR 11.29
+Name: Canadian Panzerotti | Price: LKR 11.29
+
+
+Category: The Bread Basket
+Name: Half Moon Cheesy Bread | Price: LKR 7.99
+Name: Garlic Bread with cheese | Price: LKR 6.79
+Name: Garlic Bread | Price: LKR 5.79
+
+
+Category: Drinks
+Name: Bottle Pop | Price: LKR 2.79
+Name: Nestea | Price: LKR 2.79
+Name: Peace Tea Raspberry | Price: LKR 2.99
+Name: Bottled Water | Price: LKR 2.29
+
+
+Category: Famous Dips
+Name: Dipping Sauce | Price: LKR 1.40
+
+
+Category: Sweet Treats
+Name: Two-bite Brownies | Price: LKR 5.99
+Name: Funnel Cake Stix with Caramel | Price: LKR 9.09
+Name: Ben & Jerry's Chocolate Chip Cookie Dough 473mL | Price: LKR 9.99
+Name: Ben & Jerry's Netflix & Chill'd 473mL | Price: LKR 9.99
+Name: Caramel Dip | Price: LKR 1.40
+Name: Ben & Jerry's Half Baked 473mL | Price: LKR 9.99
+Name: Ben & Jerry's Cherry Garcia 473mL | Price: LKR 9.99
+Name: Ben & Jerry's Fudge Brownie Non- Dairy 473mL | Price: LKR 9.99
+
+
+Category: Apps & Sides
+Name: Popcorn Chicken | Price: LKR 9.49
+Name: Jalapeno Poppers | Price: LKR 9.34
+Name: Single Fries | Price: LKR 7.59
+Name: Poutine | Price: LKR 7.99
+Name: Single Potato Wedges | Price: LKR 7.59
+Name: Popcorn Chicken Poutine | Price: LKR 9.99
+Name: Double Potato Wedges | Price: LKR 9.84
+Name: Cauliflower Bites (Single) | Price: LKR 7.99
+Name: Sauced Cauliflower Bites (Single) | Price: LKR 7.99
+Name: Deep Fried Pickles | Price: LKR 8.84
+Name: Double Fries | Price: LKR 9.84
+Name: Sauced Cauliflower Bites (Double) | Price: LKR 14.19
+Name: Single Onion Rings | Price: LKR 7.79
+Name: Double Onion Rings | Price: LKR 10.29
+Name: Bacon Poutine | Price: LKR 9.99
+Name: Cauliflower Bites (Double) | Price: LKR 14.29
+Name: Buffalo Popcorn Chicken Poutine | Price: LKR 10.99
+
+

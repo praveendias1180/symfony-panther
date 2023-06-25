@@ -1,0 +1,147 @@
+Category: Picked for you
+Name: #6 Teriyaki Crunch Footlong Sub | Price: LKR 15.69
+Name: #2 Great Canadian Club Footlong Sub | Price: LKR 15.49
+Name: Italian B.M.T.® Footlong Sub | Price: LKR 12.89
+Name: Rotisserie-Style Chicken Footlong Sub | Price: LKR 13.99
+Name: Crispy Chicken Footlong Sub | Price: LKR 14.89
+
+
+Category: Footlong Subway® Series
+Name: #1 Canuck Classic Footlong Sub | Price: LKR 14.99
+Name: #2 Great Canadian Club Footlong Sub | Price: LKR 15.49
+Name: #3 Turkey Rancher Footlong Sub | Price: LKR 16.39
+Name: #4 Kickin' Chicken Footlong Sub | Price: LKR 16.39
+Name: #5 Chicken Rancher Footlong Sub | Price: LKR 17.39
+Name: #6 Teriyaki Crunch Footlong Sub | Price: LKR 15.69
+Name: #7 Green Goddess Chicken Footlong Sub | Price: LKR 17.29
+Name: #8 Steak'n Bacon Footlong Sub | Price: LKR 17.99
+Name: #9 Stampede Brisket Footlong Sub | Price: LKR 19.39
+Name: #10 Steak "N' Egg Footlong Sub | Price: LKR 18.89
+Name: #11 Green Goddess Footlong Sub | Price: LKR 13.59
+Name: #12 Mozzarella Bella Footlong Sub | Price: LKR 15.19
+Name: #13 Suprimo Footlong Sub | Price: LKR 16.29
+Name: #14 Little Italy Footlong Sub | Price: LKR 17.89
+Name: #15 Meatballer Footlong Sub | Price: LKR 17.09
+
+
+Category: 6" Subway® Series
+Name: #1 Canuck Classic 6-Inch Sub | Price: LKR 8.99
+Name: #2 Great Canadian Club 6-Inch Sub | Price: LKR 10.09
+Name: #3 Turkey Rancher 6-Inch Sub | Price: LKR 10.29
+Name: #4 Kickin' Chicken 6-Inch Sub | Price: LKR 10.39
+Name: #5 Chicken Rancher 6-Inch Sub | Price: LKR 11.09
+Name: #6 Teriyaki Crunch 6-Inch Sub | Price: LKR 10.29
+Name: #7 Green Goddess Chicken 6-Inch Sub | Price: LKR 10.99
+Name: #8 Steak'n Bacon 6-Inch Sub | Price: LKR 11.49
+Name: #9 Stampede Brisket 6-Inch Sub | Price: LKR 12.09
+Name: #10 Steak "N' Egg 6-Inch Sub | Price: LKR 11.89
+Name: #11 Green Goddess 6-Inch Sub | Price: LKR 8.19
+Name: #12 Mozzarella Bella 6-Inch Sub | Price: LKR 8.99
+Name: #13 Suprimo 6-Inch Sub | Price: LKR 10.19
+Name: #14 Little Italy 6-Inch Sub | Price: LKR 11.39
+Name: #15 Meatballer 6-Inch Sub | Price: LKR 9.99
+
+
+Category: Footlong Classic Sandwiches
+Name: Steak & Cheese Footlong Sub | Price: LKR 14.59
+Name: Turkey Breast Footlong Sub | Price: LKR 13.09
+Name: Italian B.M.T.® Footlong Sub | Price: LKR 12.89
+Name: Tuna Footlong Sub | Price: LKR 12.69
+Name: Cold Cut Combo Footlong Sub | Price: LKR 11.59
+Name: Black Forest Ham Footlong Sub | Price: LKR 11.59
+Name: Veggie Delite® Footlong Sub | Price: LKR 10.29
+Name: Crispy Chicken Footlong Sub | Price: LKR 14.89
+Name: Rotisserie-Style Chicken Footlong Sub | Price: LKR 13.99
+Name: Sweet Onion Chicken Teriyaki Footlong Sub | Price: LKR 14.19
+Name: Meatball Marinara Footlong Sub | Price: LKR 12.09
+
+
+Category: 6" Classic Sandwiches
+Name: Steak & Cheese 6-Inch Sub | Price: LKR 9.79
+Name: Turkey Breast 6-Inch Sub | Price: LKR 8.59
+Name: Italian B.M.T.® 6-Inch Sub | Price: LKR 8.49
+Name: Tuna 6-Inch Sub | Price: LKR 8.49
+Name: Cold Cut Combo 6-Inch Sub | Price: LKR 7.09
+Name: Black Forest Ham 6-Inch Sub | Price: LKR 7.29
+Name: Veggie Delite® 6-Inch Sub | Price: LKR 6.49
+Name: Crispy Chicken 6-Inch Sub | Price: LKR 9.69
+Name: Rotisserie-Style Chicken 6-Inch Sub | Price: LKR 9.39
+Name: Sweet Onion Chicken Teriyaki 6-Inch Sub | Price: LKR 9.49
+Name: Meatball Marinara 6-Inch Sub | Price: LKR 7.59
+
+
+Category: Rice Bowls and Wraps
+Name: Sweet Onion Chicken Teriyaki Rice Bowl | Price: LKR 13.49
+Name: Southwest Steak & Avocado Rice Bowl | Price: LKR 14.59
+Name: Crispy Chicken Bacon & Peppercorn Ranch Rice Bowl | Price: LKR 14.59
+Name: Green Goddess Veggie Rice Bowl | Price: LKR 11.39
+Name: Sweet Onion Chicken Teriyaki Rice Wrap | Price: LKR 13.49
+Name: Southwest Steak & Avocado Rice Wrap | Price: LKR 14.59
+Name: Crispy Chicken Bacon & Peppercorn Ranch Rice Wrap | Price: LKR 14.59
+Name: Green Goddess Veggie Rice Wrap | Price: LKR 11.39
+
+
+Category: Sidekicks
+Name: Crispy Chicken Sidekick | Price: LKR 5.19
+Name: Honey Mustard Ham Sidekick | Price: LKR 4.29
+Name: Savoury Turkey Ranch Sidekick | Price: LKR 4.79
+
+
+Category: Breakfast
+Name: Egg & Bacon Sidekick | Price: LKR 4.79
+Name: Egg & Ham Sidekick | Price: LKR 4.79
+Name: Egg & Cheese Sidekick | Price: LKR 4.49
+Name: Egg & Bacon Footlong Sub | Price: LKR 10.59
+Name: Egg & Bacon 6-Inch Sub | Price: LKR 6.99
+Name: Egg & Ham Footlong Sub | Price: LKR 10.49
+Name: Egg & Ham 6-Inch Sub | Price: LKR 6.89
+Name: Egg & Cheese Footlong Sub | Price: LKR 10.19
+Name: Egg & Cheese 6-Inch Sub | Price: LKR 6.59
+
+
+Category: Salads
+Name: Steak & Cheese Salad | Price: LKR 12.09
+Name: Chicken Bacon & Peppercorn Ranch Salad | Price: LKR 12.99
+Name: Sweet Onion Chicken Teriyaki Salad | Price: LKR 11.89
+Name: Turkey Breast Salad | Price: LKR 10.89
+Name: Tuna Salad | Price: LKR 10.79
+Name: Black Forest Ham Salad | Price: LKR 9.59
+Name: Veggie Delite® Salad | Price: LKR 8.89
+
+
+Category: Kids' Pak® Meal
+Name: Black Forest Ham Kids' Pak® Meal | Price: Sold out
+Name: Turkey Breast Kids' Pak® Meal | Price: Sold out
+Name: Veggie Delite® Kids' Pak® Meal | Price: Sold out
+
+
+Category: Sides
+Name: Sunchips® Harvest Cheddar Multigrain Snacks | Price: LKR 2.29
+Name: Lay's Classic® Potato Chips | Price: LKR 2.29
+Name: Lay’s® Original Oven Baked Potato Chips | Price: LKR 2.29
+Name: Doritos® Nacho Cheese Chips | Price: LKR 2.29
+Name: Miss Vickie's® Sea Salt & Malt Vinegar | Price: Sold out
+Name: Miss Vickie's® All Dressed Up | Price: LKR 2.29
+Name: Chocolate Chip with M&M's® Candies Cookies | Price: LKR 1.19
+Name: Chocolate Chunk Cookies | Price: LKR 1.19
+Name: White Chip Macadamia Nut Cookies | Price: LKR 1.19
+Name: Caramel Brownie Cookies | Price: LKR 1.19
+Name: Six Cookies | Price: LKR 5.49
+Name: Twelve Cookies | Price: Sold out
+
+
+Category: Beverages
+Name: Tropicana® Orange Juice | Price: LKR 3.59
+Name: Diet Pepsi® | Price: LKR 3.59
+Name: G2® Fruit Punch Sports Drink | Price: LKR 3.59
+Name: Brisk® Lemon Iced Tea | Price: LKR 3.59
+Name: PURE LEAF Lemon Iced Tea | Price: LKR 3.59
+Name: Pepsi® | Price: LKR 3.59
+Name: Aquafina® Water | Price: LKR 3.59
+Name: PURE LEAF Blackberry Iced Tea | Price: LKR 3.59
+
+
+Category: Calories – Contextual Statement
+Name: Adults and youth (ages 13 and older) need an average of 2,000 calories a day, and children (ages 4 to 12) need an average of 1,500 calories a day. However, individual needs vary. | Price: LKR 0.00
+
+

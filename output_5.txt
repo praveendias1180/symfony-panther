@@ -1,0 +1,64 @@
+Category: Picked for you
+Name: Brew City Burger | Price: LKR 16.50
+Name: Large Fries | Price: LKR 8.50
+Name: Poutine | Price: LKR 12.00
+Name: Canuck Burger and Fries | Price: LKR 21.00
+Name: Brew City Onion Rings | Price: LKR 12.00
+
+
+Category: Classic Burger and Fries
+Name: Brew City Burger | Price: LKR 16.50
+Name: Veggie Burger and Fries | Price: LKR 18.00
+Name: Grilled Chicken Burger and Fries | Price: LKR 18.50
+Name: Vera Burger and Fries | Price: LKR 18.50
+Name: Lamb Burger and Fries | Price: LKR 21.00
+Name: VERA BURGER (BASIC HAMBURGER VERA'S CLASSIC BURGER) | Price: LKR 15.50
+Name: Natural Burger and Fries | Price: Handcrafted by us with over 6oz of fresh Canadian natural beef-hormone, antibiotic and steroid free, grass fed, 100% Angus beef- topped with ketchup, mustard, relish, lettuce, tomato & Vera’s Sauce and served fresh cut Kennebec double-fried fries!
+Name: Tips To the Chef | Price: Tips to the Chef, a token of your appreciation to the hard work and effort the staff has put together to assemble your delicious meal.
+
+
+Category: Hall of Fame Burger and Fries
+Name: Canuck Burger and Fries | Price: LKR 21.00
+Name: Buffalo Chicken Burger and Fries | Price: LKR 19.50
+Name: G-Money (single patty) and Fries | Price: LKR 21.00
+Name: BBQ Burger and Fries | Price: LKR 23.00
+Name: Cajun Burger and Fries | Price: LKR 20.00
+Name: The Greek Burger and Fries | Price: LKR 23.00
+Name: Game Day Burger and Fries | Price: A Vera patty with Havarti and 2 onion rings; topped with ketchup, mustard, relish, lettuce, tomato and Vera's Sauce and served with fresh cut Kennebec double-fried fries.
+Name: Tips To the Chef | Price: Tips to the Chef, a token of your appreciation to the hard work and effort the staff has put together to assemble your delicious meal.
+Name: Cheese Burger and Fries | Price: Classic cheeseburger topped with ketchup, mustard, relish, lettuce, tomato and Vera's Sauce and served with fresh cut Kennebec double-fried fries.
+
+
+Category: Random Deliciousness
+Name: 3 Chicken Fingers and Fries | Price: LKR 16.00
+Name: Poutine | Price: LKR 12.00
+Name: Vera Dog and Fries | Price: LKR 13.00
+Name: Hot Wings Wings | Price: LKR 20.00
+Name: Salt and Pepper Wings | Price: LKR 20.00
+Name: BBQ Wings | Price: LKR 20.00
+Name: Tips To the Chef | Price: Tips to the Chef, a token of your appreciation to the hard work and effort the staff has put together to assemble your delicious meal.
+
+
+Category: Drinks
+Name: Bottled Pop | Price: 500 mL.
+Name: Boylan Soda Black Cherry | Price: Boylan Soda Black CherryA unique blend of cherries, wild cherry bark, and extracts of bourbon vanilla. Flavorful, sweet, tart.
+Name: Boylan Soda Vanilla Creme | Price: Boylan Soda Vanilla CremeHints of vanilla extract, coffee, and chocolate result in a uniquely refreshing take on a classic creme soda.
+Name: Nestea Lemon Ice Tea | Price: Lemon Ice Tea
+Name: Boylan Soda Orange Soda | Price: BoylanRefreshing and less sweet than a typical orange soda, with Italian mandarin and tangerine oils.
+Name: Minute Maid Orange Juice | Price: 100% orange juice from concentrate contains pure filtered water
+Name: Boylan Soda Root Beer | Price: Boylan Soda Root BeerA rich sassafras flavor derived from cinnamon, sweet birch, vanilla, and wintergreen oil.
+Name: Minute Maid Apple Juice | Price: 100% APPLE JUICE FROM CONCENTRATE
+Name: Dasani | Price: LKR 4.00
+Name: Boylan Soda Cane C | Price: Boylan Soda Cane CA complex C derived from oils of orange, lemon and lime, with hints of nutmeg, coriander and lavender.
+Name: Minute Maid Cranberry Cocktail | Price: Minute Maid Cranberry Cocktail combines cranberry and apple flavors for a mouthful of sweet and tart refreshment that's made with real fruit juice. A blend of cranberry, apple and grape juices from concentrate and other ingredients.
+Name: BOYLANS CANE COLA | Price: MADE UP OF REAL CANE
+
+
+Category: Fries & Sides
+Name: Large Fries | Price: LKR 8.50
+Name: Brew City Onion Rings | Price: LKR 12.00
+Name: Sweet Potato Fries | Price: LKR 11.00
+Name: Side of Gravy | Price: Vegetarian.
+Name: Tips To the Chef | Price: Tips to the Chef, a token of your appreciation to the hard work and effort the staff has put together to assemble your delicious meal.
+
+
