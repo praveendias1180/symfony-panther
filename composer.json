@@ -1,4 +1,6 @@
 {
     "name": "praveendias1180/symfony-panther",
-    "require": {}
+    "require-dev": {
+        "symfony/panther": "^2.1"
+    }
 }
