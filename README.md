@@ -38,3 +38,9 @@ Note the *js* slug at the end of the url. This is a JS rendered page.
 ![](crawl-website.png)
 
 ![](crawl-csv.png)
+
+# Demo
+
+https://www.youtube.com/watch?v=AAwN2SzyNnY
+
+![](demo-scraping.png)
