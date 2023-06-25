@@ -32,3 +32,9 @@ composer require --dev dbrekelmans/bdi && vendor/bin/bdi detect drivers
 Note the *js* slug at the end of the url. This is a JS rendered page.
 
 ![](crawling-js.png)
+
+# Website to CSV
+
+![](crawl-website.png)
+
+![](crawl-csv.png)
