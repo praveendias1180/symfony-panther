@@ -18,3 +18,11 @@ Panther is a convenient standalone library to scrape websites and to run end-to-
 Panther is super powerful. It leverages the W3C's WebDriver protocol to drive native web browsers such as Google Chrome and Firefox.
 
 https://github.com/symfony/panther
+
+# Install Drivers
+
+```
+composer require --dev dbrekelmans/bdi && vendor/bin/bdi detect drivers
+```
+
+![](install-drivers.png)

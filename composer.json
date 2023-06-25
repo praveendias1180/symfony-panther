@@ -1,6 +1,7 @@
 {
     "name": "praveendias1180/symfony-panther",
     "require-dev": {
-        "symfony/panther": "^2.1"
+        "symfony/panther": "^2.1",
+        "dbrekelmans/bdi": "^1.0"
     }
 }
