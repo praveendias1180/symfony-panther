@@ -41,6 +41,6 @@ Note the *js* slug at the end of the url. This is a JS rendered page.
 
 # Demo
 
-https://www.youtube.com/watch?v=AAwN2SzyNnY
+https://www.youtube.com/watch?v=uTxRF5ag27A
 
 ![](demo-scraping.png)
