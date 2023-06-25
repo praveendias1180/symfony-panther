@@ -26,3 +26,9 @@ composer require --dev dbrekelmans/bdi && vendor/bin/bdi detect drivers
 ```
 
 ![](install-drivers.png)
+
+# Crawling JS Rendered Pages
+
+Note the *js* slug at the end of the url. This is a JS rendered page.
+
+![](crawling-js.png)
